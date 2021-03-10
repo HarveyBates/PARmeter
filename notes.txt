@@ -1,0 +1,19 @@
+
+------ Mechanical / Optical ------
+Filter:
+	https://www.edmundoptics.com/p/750nm-125mm-dia-od-20-shortpass-filter/43482/
+
+Photodiode:
+	https://www.thorlabs.com/thorproduct.cfm?partnumber=FDS100
+
+Cosine Corrector (Acrylic Sheet):
+	https://koenigmachinery.com.au/products/new-frosted-acrylic?variant=34646481240232
+
+------ Electronics ------
+
+Amplifier:
+	https://au.element14.com/texas-instruments/opa320aidbvt/op-amp-cmos-20mhz-5sot23/dp/3116339?st=opa320
+
+
+
+
