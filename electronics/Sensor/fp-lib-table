@@ -1,6 +1,0 @@
-(fp_lib_table
-  (lib (name Teensy)(type KiCad)(uri "/Users/harveybates/Documents/KiCad Libraries/User Library/Teensy")(options "")(descr ""))
-  (lib (name FDS100)(type KiCad)(uri "/Users/harveybates/Documents/KiCad Libraries/User Library/Photodiodes/FDS100.pretty")(options "")(descr ""))
-  (lib (name ethernet)(type KiCad)(uri "/Users/harveybates/Documents/KiCad Libraries/User Library/Plugs/ethernet")(options "")(descr ""))
-  (lib (name Op-Amps)(type KiCad)(uri "/Users/harveybates/Documents/KiCad Libraries/User Library/Op-Amps")(options "")(descr ""))
-)
