@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name OPA320AIDBVT)(type Legacy)(uri "/Users/harveybates/Documents/KiCad Libraries/User Library/Op-Amps/OPA320AIDBVT.lib")(options "")(descr ""))
+  (lib (name FDS100)(type Legacy)(uri "/Users/harveybates/Documents/KiCad Libraries/User Library/Photodiodes/FDS100.lib")(options "")(descr ""))
+  (lib (name teensy)(type Legacy)(uri "/Users/harveybates/Documents/KiCad Libraries/User Library/Teensy/teensy.lib")(options "")(descr ""))
+  (lib (name SS-60000-009)(type Legacy)(uri "/Users/harveybates/Documents/KiCad Libraries/User Library/Plugs/ethernet/SS-60000-009.lib")(options "")(descr ""))
+)
