@@ -3,7 +3,7 @@ EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 1 2
+Sheet 1 1
 Title ""
 Date ""
 Rev ""
@@ -145,12 +145,6 @@ F 3 "~" H 4150 2300 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 Connection ~ 4150 2150
-$Sheet
-S 4600 800  900  1000
-U 60497DFA
-F0 "TeensySide" 50
-F1 "TeensySide.sch" 50
-$EndSheet
 Text Label 3900 2350 3    50   ~ 0
 Fout
 Text Label 3100 3800 3    50   ~ 0
