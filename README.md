@@ -1,5 +1,5 @@
 # PARmeter
-## Introduction<img align="right" width=300 src="imgs/Sensor-ExplodedView.png">
+## Introduction<img align="right" width=400 src="imgs/Sensor-ExplodedView.png">
 
 **P**hotosynthetic **A**ctive **R**adiation (**PAR**) meters are designed to quantify light of specific wavelengths that are available for photosynthesising organims (~400 - 700 nm). This information is important for (amongst other things):
 
